@@ -1,0 +1,1 @@
+if(show && selected + 1 < size) selected++;

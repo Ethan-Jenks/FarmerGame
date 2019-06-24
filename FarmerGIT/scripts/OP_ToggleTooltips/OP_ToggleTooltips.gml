@@ -1,0 +1,1 @@
+Manager.showTooltips = !Manager.showTooltips;

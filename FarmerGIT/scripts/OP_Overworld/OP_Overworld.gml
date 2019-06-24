@@ -1,0 +1,1 @@
+instance_create_depth(room_width/3,room_height/3,45,oOverworld);
