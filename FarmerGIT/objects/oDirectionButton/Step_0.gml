@@ -1,1 +1,0 @@
-depth = handler.depth - 1;

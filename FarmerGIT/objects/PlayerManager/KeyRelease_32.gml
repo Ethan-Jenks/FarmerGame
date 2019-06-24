@@ -1,1 +1,0 @@
-playerItems.show = !playerItems.show;

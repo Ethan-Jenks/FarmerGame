@@ -1,1 +1,0 @@
-if(show && selected > 0) selected--;
