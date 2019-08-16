@@ -1,0 +1,7 @@
+Equippable:
+Mining Efficiency - Increases progress rate when mining
+Damage - Flat damage done to enemy when in combat
+
+Consumable:
+Heal - Flat restores HP
+Energize - Flat restores Stam
